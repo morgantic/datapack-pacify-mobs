@@ -34,7 +34,7 @@
       {
         "assets": [
           {
-            "path": "src",
+            "path": "src/**/*",
             "label": "Pacify_Mobs_1.21-${nextRelease.gitTag}"
           }
         ]
