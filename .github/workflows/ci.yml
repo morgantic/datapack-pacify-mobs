@@ -42,7 +42,7 @@ jobs:
 
       - name: "Package and Publish"
         if: ${{ steps.get-next-version.outputs.new-release-published == 'true'  }}
-        run: zip -j -r "Pacify_Mobs.zip" src/*
+        run: zip -r "Pacify_Mobs.zip" src/*
 
       - name: "🏗️ Build & Release to GitHub"
         if: ${{ steps.get-next-version.outputs.new-release-published == 'true'  }}
