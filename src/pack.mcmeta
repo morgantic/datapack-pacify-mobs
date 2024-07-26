@@ -1,6 +1,6 @@
 {
 	"pack": {
-		"pack_format": 7,
-		"description": [{"text":"Pacify Mobs","color":"gold"},{"text":"\nvanillatweaks.net","color":"yellow"}]
+		"pack_format": 48,
+		"description": [{"text":"Pacify Mobs","color":"gold"},{"text":"\nDisable the ai of any mob","color":"yellow"}]
 	}
 }
