@@ -1,6 +1,9 @@
 {
 	"pack": {
 		"pack_format": 48,
+    "supported_formats": {
+      "min_inclusive": 48
+    },
 		"description": [{"text":"Pacify Mobs","color":"gold"},{"text":"\nDisable the ai of any mob","color":"yellow"}]
 	}
 }
